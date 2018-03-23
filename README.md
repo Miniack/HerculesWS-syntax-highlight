@@ -28,8 +28,8 @@ Defined HerculesWS NPC scripting language for Notepad++.
 
 
 ### Sources:
- - [rAthena Script Commands](https://github.com/rathena/rathena/blob/daa9e018f4395844c2689c15b31b0494d0240d45/doc/script_commands.txt)
- - [rAthena Constants](https://github.com/rathena/rathena/blob/daa9e018f4395844c2689c15b31b0494d0240d45/db/const.txt)
+ - [Hercules Script Commands](https://github.com/HerculesWS/Hercules/blob/d89690fbdbaa5dc78f98d96ee91403e329c12af1/doc/script_commands.txt)
+ - [Hercules Constants](https://github.com/HerculesWS/Hercules/blob/d89690fbdbaa5dc78f98d96ee91403e329c12af1/db/constants.conf)
 
 
 Happy editing.

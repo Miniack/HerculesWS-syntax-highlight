@@ -5,7 +5,7 @@ Defined HerculesWS NPC scripting language for Notepad++.
 
 ### Keywords contents
  - NPC script commands.
- - Constants from db/const.txt
+ - Constants from db/constants.conf
 
 
 ### How to add to Notepad++?

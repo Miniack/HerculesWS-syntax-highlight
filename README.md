@@ -1,7 +1,7 @@
-rAthena-syntax-highlight
+HerculesWS-syntax-highlight
 ======================
 
-Defined rAthena NPC scripting language for Notepad++.
+Defined HerculesWS NPC scripting language for Notepad++.
 
 ### Keywords contents
  - NPC script commands.
@@ -9,7 +9,7 @@ Defined rAthena NPC scripting language for Notepad++.
 
 
 ### How to add to Notepad++?
- - Open your Notepad++ and go to the Language > Define your language... > Import.
+ - Open your Notepad++ and go to the Language > Define your language... > Import > Import the file Notepadpp-HerculesWS-syntax-highlight.xml.
  - Use default styles in the Settings > Style Configurator > Select theme: Default.
  - Or you can download example style theme /themes/rAthenaWhite.xml and import it Settings < Import < Import style theme(s)....
  - Restart Notepad++ after changing language or styles.
@@ -22,7 +22,7 @@ Defined rAthena NPC scripting language for Notepad++.
 
 
 ### Auto-completion
- - Copy APIs/rathena.xml to Notepad++ installation folder APIs/rathena.
+ - Copy APIs/herculesws.xml to Notepad++ installation folder APIs/rathena.
  - Open menu Settings > Preferences... > Auto-Completion tab, check "Enable auto-completion on each input".
  - Restart Notepad++.
 
